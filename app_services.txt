@@ -1,0 +1,4 @@
+dev.app1 SUBSCRIPTION-D-001   app-001-d-rgp    app-d-app-001
+dev.app2 SUBSCRIPTION-D-001   app-002-d-rgp    app-d-app-002
+int.app1 SUBSCRIPTION-I-001   app-001-i-rgp    app-i-app-001
+prod.app1 SUBSCRIPTION-P-001   app-002-p-rgp    app-p-app-002
